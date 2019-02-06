@@ -33,6 +33,7 @@ A [link][example].
   [example]: http://example.com
 
 ![Image](Icon-pictures.png "icon")
+![Image](addr.png "address")
 
 > Markdown uses email-style > characters for blockquoting.
 
